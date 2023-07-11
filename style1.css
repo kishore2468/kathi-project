@@ -1,0 +1,49 @@
+body{
+    background: url("./bule\ 4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#heading{
+    color: rgb(238, 98, 5);
+    background-color: rgb(37,34,34,0.378);
+    width: 700px;
+    text-align: center;
+    margin: auto;
+
+
+
+
+}
+#content{
+    display: flex;
+    background: rgba(red, green, blue, alpha);
+    height: 550px;
+    width: 750px;
+    margin: auto;
+    margin-top: 50px;
+    justify-content:space-around;
+}
+img{
+    height: 150px;
+    width: 140px;
+    border: 3px solid burlywood;
+    border-top-left-radius: 70% ;
+    border-top-right-radius: 70%;
+    border-bottom-right-radius:  20%;
+    border-bottom-left-radius: 20%;
+    margin-left: 10px;
+    margin-top: 20px;
+   /* border-radius: 50%;*/
+
+}
+#title
+{
+    color:rgb(50, 10, 224);
+    display: flex;
+    width: 1050px;
+    background-color: rgba(37,34,34,0.378);
+    justify-content: space-around;
+    margin:auto
+    
+
+}
